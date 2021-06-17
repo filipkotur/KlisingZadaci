@@ -1,0 +1,13 @@
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\bin\Debug\netcoreapp3.1\KlisingCetvrtizadatak.exe
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\bin\Debug\netcoreapp3.1\KlisingCetvrtizadatak.deps.json
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\bin\Debug\netcoreapp3.1\KlisingCetvrtizadatak.runtimeconfig.json
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\bin\Debug\netcoreapp3.1\KlisingCetvrtizadatak.runtimeconfig.dev.json
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\bin\Debug\netcoreapp3.1\KlisingCetvrtizadatak.dll
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\bin\Debug\netcoreapp3.1\KlisingCetvrtizadatak.pdb
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\obj\Debug\netcoreapp3.1\KlisingCetvrtizadatak.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\obj\Debug\netcoreapp3.1\KlisingCetvrtizadatak.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\obj\Debug\netcoreapp3.1\KlisingCetvrtizadatak.AssemblyInfo.cs
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\obj\Debug\netcoreapp3.1\KlisingCetvrtizadatak.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\obj\Debug\netcoreapp3.1\KlisingCetvrtizadatak.dll
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\obj\Debug\netcoreapp3.1\KlisingCetvrtizadatak.pdb
+C:\Users\filip\source\repos\KlisingCetvrtizadatak\KlisingCetvrtizadatak\obj\Debug\netcoreapp3.1\KlisingCetvrtizadatak.genruntimeconfig.cache

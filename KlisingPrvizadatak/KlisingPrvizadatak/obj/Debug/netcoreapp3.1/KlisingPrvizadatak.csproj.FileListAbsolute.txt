@@ -1,0 +1,13 @@
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\bin\Debug\netcoreapp3.1\KlisingPrvizadatak.exe
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\bin\Debug\netcoreapp3.1\KlisingPrvizadatak.deps.json
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\bin\Debug\netcoreapp3.1\KlisingPrvizadatak.runtimeconfig.json
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\bin\Debug\netcoreapp3.1\KlisingPrvizadatak.runtimeconfig.dev.json
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\bin\Debug\netcoreapp3.1\KlisingPrvizadatak.dll
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\bin\Debug\netcoreapp3.1\KlisingPrvizadatak.pdb
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\obj\Debug\netcoreapp3.1\KlisingPrvizadatak.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\obj\Debug\netcoreapp3.1\KlisingPrvizadatak.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\obj\Debug\netcoreapp3.1\KlisingPrvizadatak.AssemblyInfo.cs
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\obj\Debug\netcoreapp3.1\KlisingPrvizadatak.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\obj\Debug\netcoreapp3.1\KlisingPrvizadatak.dll
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\obj\Debug\netcoreapp3.1\KlisingPrvizadatak.pdb
+C:\Users\filip\source\repos\KlisingPrvizadatak\KlisingPrvizadatak\obj\Debug\netcoreapp3.1\KlisingPrvizadatak.genruntimeconfig.cache

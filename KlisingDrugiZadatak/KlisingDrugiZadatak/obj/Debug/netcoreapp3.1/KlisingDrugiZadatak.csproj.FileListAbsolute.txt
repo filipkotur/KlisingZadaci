@@ -1,0 +1,13 @@
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\obj\Debug\netcoreapp3.1\KlisingDrugiZadatak.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\obj\Debug\netcoreapp3.1\KlisingDrugiZadatak.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\obj\Debug\netcoreapp3.1\KlisingDrugiZadatak.AssemblyInfo.cs
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\obj\Debug\netcoreapp3.1\KlisingDrugiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\bin\Debug\netcoreapp3.1\KlisingDrugiZadatak.exe
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\bin\Debug\netcoreapp3.1\KlisingDrugiZadatak.deps.json
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\bin\Debug\netcoreapp3.1\KlisingDrugiZadatak.runtimeconfig.json
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\bin\Debug\netcoreapp3.1\KlisingDrugiZadatak.runtimeconfig.dev.json
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\bin\Debug\netcoreapp3.1\KlisingDrugiZadatak.dll
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\bin\Debug\netcoreapp3.1\KlisingDrugiZadatak.pdb
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\obj\Debug\netcoreapp3.1\KlisingDrugiZadatak.dll
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\obj\Debug\netcoreapp3.1\KlisingDrugiZadatak.pdb
+C:\Users\filip\source\repos\KlisingDrugiZadatak\KlisingDrugiZadatak\obj\Debug\netcoreapp3.1\KlisingDrugiZadatak.genruntimeconfig.cache

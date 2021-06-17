@@ -1,0 +1,13 @@
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\bin\Debug\netcoreapp3.1\KlisingTrećiZadatak.exe
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\bin\Debug\netcoreapp3.1\KlisingTrećiZadatak.deps.json
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\bin\Debug\netcoreapp3.1\KlisingTrećiZadatak.runtimeconfig.json
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\bin\Debug\netcoreapp3.1\KlisingTrećiZadatak.runtimeconfig.dev.json
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\bin\Debug\netcoreapp3.1\KlisingTrećiZadatak.dll
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\bin\Debug\netcoreapp3.1\KlisingTrećiZadatak.pdb
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\obj\Debug\netcoreapp3.1\KlisingTrećiZadatak.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\obj\Debug\netcoreapp3.1\KlisingTrećiZadatak.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\obj\Debug\netcoreapp3.1\KlisingTrećiZadatak.AssemblyInfo.cs
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\obj\Debug\netcoreapp3.1\KlisingTrećiZadatak.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\obj\Debug\netcoreapp3.1\KlisingTrećiZadatak.dll
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\obj\Debug\netcoreapp3.1\KlisingTrećiZadatak.pdb
+C:\Users\filip\source\repos\KlisingTrećiZadatak\KlisingTrećiZadatak\obj\Debug\netcoreapp3.1\KlisingTrećiZadatak.genruntimeconfig.cache
