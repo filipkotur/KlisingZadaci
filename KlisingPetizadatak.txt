@@ -1,4 +1,4 @@
 SELECT countryId,population  
 FROM CountryPopulation
-WHERE population<(
+WHERE population>(
     SELECT population FROM CountryPopulation where countryId = 001)  
