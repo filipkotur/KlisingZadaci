@@ -9,55 +9,58 @@ namespace KlisingCetvrtizadatak
             int broj;
             while (1 == 1)
             {
-                int counter = 0;
+                int brojač = 0;
                 Console.WriteLine("Unesi niz brojeva: ");
-                string recenica = Console.ReadLine();
-                string[] podijelaRijeci = recenica.Split(" ");
-                int[] nizbrojeva = new int[podijelaRijeci.Length];
-                int najmanjibroj ;
-
-                foreach (string s in podijelaRijeci)
+                string pocetniUnos = Console.ReadLine();
+                if (!string.IsNullOrEmpty(pocetniUnos))
                 {
-                    if (Int32.TryParse(s, out broj))
-                        nizbrojeva[counter++] = broj;
-                    else
-                    {
+                    string[] podijelaRijeci = pocetniUnos.Split(" ");
+                    int[] nizbrojeva = new int[podijelaRijeci.Length];
+                    int najmanjibroj;
 
-                        Console.WriteLine("Nisi unio brojeve!");
-                        break;
+                    foreach (string rijec in podijelaRijeci)
+                    {
+                        if (Int32.TryParse(rijec, out broj))
+                            nizbrojeva[brojač++] = broj;
+                        else
+                        {
+
+                            Console.WriteLine("Nisi unio brojeve!");
+                            break;
+                        }
                     }
-                }
-                //do ovdje je zapisano unos broj i provjera nakon toga slijedi algoritam 
-               if (podijelaRijeci.Length == nizbrojeva.Length)
+                    //do ovdje je zapisano unos broj i provjera nakon toga slijedi algoritam 
+                    if (podijelaRijeci.Length == nizbrojeva.Length)
                     {
                         int zbroj = 0;
-                        foreach (int a in nizbrojeva)
+                        foreach (int brojuNizu in nizbrojeva)
                         {
-                            zbroj = zbroj + a;
+                            zbroj = zbroj + brojuNizu;
                         }
-                    najmanjibroj = nizbrojeva[0];
+                        najmanjibroj = nizbrojeva[0];
                         float srednjaVrijednost = (float)zbroj / (float)nizbrojeva.Length;
-                        
-                    //ALGORITAM
-                    foreach (int a in nizbrojeva)
+
+                        //ALGORITAM
+                        foreach (int brojuNizu in nizbrojeva)
                         {
-                           
-                            if ((Math.Abs(srednjaVrijednost - a) == Math.Abs(srednjaVrijednost - najmanjibroj)) && najmanjibroj >a)
+
+                            if ((Math.Abs(srednjaVrijednost - brojuNizu) == Math.Abs(srednjaVrijednost - najmanjibroj)) && najmanjibroj > brojuNizu)
                             {
-                            najmanjibroj = a;
-                        }
-                            else if((Math.Abs(srednjaVrijednost - a) < Math.Abs(srednjaVrijednost - najmanjibroj)))
+                                najmanjibroj = brojuNizu;
+                            }
+                            else if ((Math.Abs(srednjaVrijednost - brojuNizu) < Math.Abs(srednjaVrijednost - najmanjibroj)))
                             {
-                                najmanjibroj = a;
+                                najmanjibroj = brojuNizu;
 
                             }
                         }
-                    Console.WriteLine("Broj koji je najbliži srednjoj vrijednosti je " + najmanjibroj);
+                        Console.WriteLine("Broj koji je najbliži srednjoj vrijednosti je " + najmanjibroj);
+
+                    }
 
                 }
-
             }
-            }
+        }
         }
     }
 
